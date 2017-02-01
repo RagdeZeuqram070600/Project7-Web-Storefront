@@ -1,0 +1,57 @@
+header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #272727;
+    padding-right: 80px;
+    opacity: 0.8;
+    position: fixed;
+    padding-left: 1000px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style-type: none;
+    opacity: 1.0;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #2774f3;
+}
+
+body {
+    background-image: url("img/BetterBlue.jpg");
+}
+
+h1 {
+    color: darkblue;
+    font: 900%/ 1.4 italic;
+    font-family: "Courier", sans-serif;
+}
+h2 {
+    color: blue;
+    font: 400%/ 1.4 italic;
+}
+
+h3 {
+    color: #ffffff;
+    font: 200%/ 1.4 italic;
+}
